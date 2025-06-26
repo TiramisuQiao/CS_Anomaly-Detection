@@ -10,13 +10,13 @@ The project focuses on detecting anomalies in time-series data using the `Anomal
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/anomaly-detection-prediction.git
+   git clone https://github.com/TiramisuQiao/CS_Anomaly-Detection.git
    cd anomaly-detection-prediction
    ```
 
 2. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt
+   uv sync
    ```
 
 ## 🚦 Usage
